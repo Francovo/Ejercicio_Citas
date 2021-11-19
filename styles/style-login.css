@@ -1,0 +1,16 @@
+html{
+    background-color: black;
+}
+
+
+form{
+    
+    padding: 10%;
+    font-family: sans-serif;
+    min-height: 50%;
+    padding-bottom: 5rem;
+    font-size: 13px;
+    background-color: black;
+    color: white;
+}
+
